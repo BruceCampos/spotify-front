@@ -1,4 +1,14 @@
 :root {
     /* FONT */
     --font-dm-sans: "DM Sans", sans-serif;
+    
+    /* COLOR */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,07);
+    --bg-background-card: #121212;
+    --bg-background-button: #242424;
+    --bg-library: #b3b3b3;
+    --bg-black: #000000;
+    --tc-white: #FFFFFF;
 }
+
